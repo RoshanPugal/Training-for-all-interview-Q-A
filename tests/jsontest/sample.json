@@ -1,0 +1,18 @@
+{
+  "users":[
+    {
+      "id":1,
+      "details":{
+        "username":"roshan",
+        "password":"pugal@123"
+      }
+    },
+    {
+      "id":2,
+      "details":{
+        "username":"kumar",
+        "password":"kumar@123"
+      }
+    }
+  ]
+}
