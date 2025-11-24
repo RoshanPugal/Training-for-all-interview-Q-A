@@ -1,4 +1,4 @@
-class home {
+export class home {
     constructor(page) {
         this.page=page
         this.username=page.getByPlaceholder("Username")
@@ -41,4 +41,3 @@ class home {
     }
 
 }
-export default home
