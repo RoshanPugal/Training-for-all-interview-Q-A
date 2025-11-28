@@ -30,3 +30,15 @@ if(found.length>0){
     
 }
 
+let a = [1,5,7,10,12,13,15]
+let b =[]
+let c =[]
+for(let i=0;i<a.length;i++){
+    if(a[i]%2 ==1){
+        b.push(a[i])
+    }else{
+        c.push(a[i])
+    }
+}
+console.log(b,"is a Add Number")
+console.log(c,"is a Even number")

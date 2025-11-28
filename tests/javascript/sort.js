@@ -29,3 +29,5 @@ for(let i=0;i<fruit.length;i++){
         count[fruits]=1
     }
 }console.log(count)
+
+
